@@ -1,48 +1,46 @@
-# 📊 Power BI Dashboard – Gestión de Gastos
+# 📊 Power BI Dashboard – Expense Management
 
-Este proyecto consiste en un dashboard interactivo desarrollado en Power BI para el análisis de gastos empresariales, con foco en la comparación entre **Budget vs Real**.
+This project consists of an interactive dashboard developed in Power BI for business expense analysis, focusing on the comparison between **Budget vs Real**.
 
-## 🚀 Objetivo
+## 🚀 Target
 
-Facilitar la toma de decisiones mediante una visualización clara y dinámica de los gastos, permitiendo identificar desviaciones y analizar la información desde múltiples perspectivas.
+Make decision-making easier with a clear and dynamic view of expenses, allowing you to spot deviations and analyze the information from multiple angles.
 
-## 📌 Funcionalidades principales
+## 📌 Main features
 
-- Comparación entre presupuesto (**Budget**) y ejecución real (**Real**)  
-- Indicadores clave:
-  - Total Budget  
-  - Total Real  
-  - Variación  
-  - Variación %  
-- Filtros dinámicos por:
-  - Año  
-  - Mes  
-  - Categoría  
-  - Proyecto  
-  - Cuenta  
-- Interacción entre visualizaciones para análisis detallado  
 
-## 🧠 Tecnologías utilizadas
+    
+  Key indicators:
+
+- Comparison between budget (**Budget**) and actual execution (**Real**)
+- Total Budget  
+- Total Real  
+- Variation  
+- Variation %  
+- Dynamic filters by:  
+- Year  
+- Month  
+- Category  
+- Project  
+- Account  
+- Interaction between visualizations for detailed analysis  
+
+## 🧠 Technologies Used 
 
 - Power BI  
-- Power Query (transformación de datos)  
-- DAX (medidas y cálculos)  
+- Power Query (data transformation)  
+- DAX (measures and calculations)  
 
+## ⚙️ How to Use  
+1. Open the `.pbix` file in Power BI Desktop  
+2. Connect to the corresponding data source  
+3. Refresh the data in Power BI  
 
-## ⚙️ Uso
+## 📌 Notes  
+The dashboard is designed to adapt to changes in the data structure, allowing for progressive incorporation of actual information.  
 
-1. Abrir el archivo `.pbix` en Power BI Desktop  
-2. Conectar con la fuente de datos correspondiente  
-3. Actualizar los datos desde Power BI  
+## 🤝 Feedback  
+This project was developed in collaboration with the client, iterating based on feedback to improve the visualization and user experience.  
 
-## 📌 Notas
-
-El dashboard está diseñado para adaptarse a cambios en la estructura de datos, permitiendo incorporar información real de forma progresiva.
-
-## 🤝 Feedback
-
-Este proyecto fue desarrollado en colaboración con el cliente, iterando sobre feedback para mejorar la visualización y la experiencia de uso.
-
-## 📬 Contacto
-
-Si estás interesado en un dashboard similar o en automatizar tus reportes, no dudes en contactarme.
+## 📬 Contact  
+If you are interested in a similar dashboard or in automating your reports, feel free to contact me.
