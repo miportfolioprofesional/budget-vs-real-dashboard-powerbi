@@ -37,7 +37,10 @@ Make decision-making easier with a clear and dynamic view of expenses, allowing 
 3. Refresh the data in Power BI  
 
 ## 📌 Notes  
-The dashboard is designed to adapt to changes in the data structure, allowing for progressive incorporation of actual information.  
+The dashboard is designed to adapt to changes in the data structure, allowing for progressive incorporation of actual information. 
+
+
+
 
 ## 🤝 Feedback  
 This project was developed in collaboration with the client, iterating based on feedback to improve the visualization and user experience.  
